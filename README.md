@@ -1,2 +1,1 @@
-# C20_Motore_fisicos
-Plantilla alumno para c21
+# PROC20_AM_Materia_Repetitiva
